@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OreRegenerator:jar">
+    <output-path>$USER_HOME$/Desktop/Spigot 1.12/plugins</output-path>
+    <root id="archive" name="OreRegenerator.jar">
+      <element id="module-output" name="OreRegenerator" />
+    </root>
+  </artifact>
+</component>
